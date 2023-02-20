@@ -1,0 +1,24 @@
+﻿  Project.cpp
+E:\Uni work\Data Structure\Project\Project\Project.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1134,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1140,23): warning C4018: '<': signed/unsigned mismatch
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1181,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1230,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1270,44): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1284,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1286,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1288,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1291,47): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1293,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1296,70): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1296,112): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1296,134): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1296,147): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1341,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1349,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1361,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Uni work\Data Structure\Project\Project\Project.cpp(298): warning C4715: 'AVL::get_value': not all control paths return a value
+E:\Uni work\Data Structure\Project\Project\Project.cpp(1083): warning C4715: 'Circular_List::get_data': not all control paths return a value
+E:\Uni work\Data Structure\Project\Project\Project.cpp(236): warning C4715: 'AVL::get_line': not all control paths return a value
+E:\Uni work\Data Structure\Project\Project\Project.cpp(259): warning C4715: 'AVL::get_name': not all control paths return a value
+  Project.vcxproj -> E:\Uni work\Data Structure\Project\Debug\Project.exe
